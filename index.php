@@ -13,7 +13,7 @@
             a High Flow Mobil Filter. <br>
             $65.00 +tax <br>
             #2 (Silver Package) Offers your vehicle a Mobil 1 or Amsoil OE Full Synthetic Oil &
-            a Quality Synthetic High Flow Filter. 
+            a Quality Synthetic High Flow Filter.
             $85.00 +tax <br>
             #3 (Gold Package) Offers your vehicle an Amsoil XL Boost 12,000 mile 100% Synthetic Oil &
             a Quality Synthetic High Flow Oil Filter.
@@ -45,8 +45,4 @@
             $180.00 +tax (All Packages include up to 10 Qts & a Full Synthetic High Flow Oil Filter) Additional Mobil 1 Qts are $7.99 +tax Additional Amsoil Qts are $11.99 +tax
         </p>
     </div>
-        <footer>
-        <?php include('footer.php'); ?>
-        </footer>
-    </body>
-</html>
+<?php include('footer.php'); ?>

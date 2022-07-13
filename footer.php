@@ -1,3 +1,4 @@
+<footer>
 <div class="footer-container">
   <div class="footer">
     <div class="footer-heading footer-1">
@@ -25,5 +26,9 @@
       <a href="#Location">Location</a>
     </div>
   </div>
-  <?php include('icons.php'); ?>
 </div>
+</footer>
+<!-- Bootstrap core JS-->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
